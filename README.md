@@ -1,4 +1,4 @@
-# dmin_dashbaord_v23_html_css_js_bootstap5
+# admin_dashbaord_v23_html_css_js_bootstap5
 
 dmin_dashbaord_v23_html_css_js_bootstap5
 
